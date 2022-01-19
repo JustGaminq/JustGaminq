@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Matt (JustGaminq)</h1>
 
-<!--
-**JustGaminq/JustGaminq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- :briefcase: I'm currently working at Project Lodge as an Owner, Development Manager and Developer
+- :computer: I'm fluent in Java, C++, JavaScript and several other languages and platforms
+- :notebook: I'm currently learning HTML, CSS and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project Lodge
+
+Project Lodge is a brand new concept in the gaming community! We provide a unique network on the video game called Minecraft and we are looking to expand in the future. To stay updated on this project feel free to look over any of our socials:
+
+- Website: https://projectlodge.net
+- Discord: https://discord.projectlodge.net
+- Twitter: https://twitter.com/projectlodgemc
+
+## Contact Me
+
+If you are interesting in contacting me personally then feel free to use any of the following methods:
+
+- Discord: Matt!#4196
+- Telegram: JustGaminq
+- Twitter: JustGaminq
