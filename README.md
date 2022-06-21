@@ -6,13 +6,13 @@
 - :computer: I'm fluent in Java, C++, JavaScript and several other languages and platforms
 - :notebook: I'm currently learning HTML, CSS and Python
 
-## Project Lodge
+## D3luxe
 
-Project Lodge is a brand new concept in the gaming community! We provide a unique network on the video game called Minecraft and we are looking to expand in the future. To stay updated on this project feel free to look over any of our socials:
+D3luxe is a next generation Technology and Gaming company looking to make a positive impact on the future of the industry! To stay updated on this project feel free to look over any of our socials:
 
-- Website: https://projectlodge.net
-- Discord: https://discord.projectlodge.net
-- Twitter: https://twitter.com/projectlodgemc
+- Website: https://d3luxe.com
+- Discord: https://discord.d3luxe.com
+- Twitter: https://twitter.com/d3luxegroup
 
 ## Contact Me
 
