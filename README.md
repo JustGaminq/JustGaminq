@@ -2,16 +2,16 @@
 
 ## About Me
 
-- :briefcase: I'm currently working at Project Lodge as an Owner, Development Manager and Developer
-- :computer: I'm fluent in Java, C++, JavaScript and several other languages and platforms
-- :notebook: I'm currently learning HTML, CSS and Python
+- :briefcase: I'm currently the Chief Executive Offcier at D3luxe
+- :computer: I'm fluent in Java, C++, JavaScript, HTML, and CSS
+- :notebook: I'm currently learning Python
 
 ## D3luxe
 
 D3luxe is a next generation Technology and Gaming company looking to make a positive impact on the future of the industry! To stay updated on this project feel free to look over any of our socials:
 
 - Website: https://d3luxe.com
-- Discord: https://discord.d3luxe.com
+- Discord: https://discord.gg/d3luxe
 - Twitter: https://twitter.com/d3luxegroup
 
 ## Contact Me
