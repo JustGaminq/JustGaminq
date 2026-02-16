@@ -1,23 +1,13 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Matt (JustGaminq)</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Matt</h1>
 
 ## About Me
 
-- :briefcase: I'm currently the Chief Executive Officer at D3luxe.
+- :briefcase: I'm currently an Executive at Money Magnified, and more.
 - :computer: I'm fluent in Java, C++, JavaScript, HTML, CSS, and Python.
-- 🎮 I'm actively working on a range of video game projects.
+- 🎮 I'm actively working on a range of projects.
 
-## D3luxe
+## Money Magnified
 
-D3luxe is a next-generation Technology and Gaming company looking to impact the industry's future! To stay updated on this project feel free to look over any of our socials:
+Money Magnified is an all-in-one solution for businesses and individuals.
 
-- Website: https://d3luxe.com
-- Discord: https://discord.d3luxe.com
-- Twitter: https://twitter.com/d3luxeco
-
-## Contact Me
-
-If you are interested in contacting me personally then feel free to use any of the following methods:
-
-- Discord: JustGaminq
-- Telegram: JustGaminq
-- Twitter: JustGaminq
+- Website: https://moneymagnified.com
